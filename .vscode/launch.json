@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Intro-to-JS\\excellent-grade.js"
+            "program": "${file}"
         }
     ]
 }
